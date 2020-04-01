@@ -2,7 +2,7 @@ import { Vue, Component, Prop } from "vue-property-decorator";
 
 @Component({})
 export default class App extends Vue {
-  @Prop({ type: String, default: "App" })
+  @Prop({ type: String, default: "Hello World" })
   name?: string;
 
   render(h) {
