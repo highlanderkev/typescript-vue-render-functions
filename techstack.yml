@@ -1,0 +1,136 @@
+repo_name: highlanderkev/typescript-vue-render-functions
+report_id: 6b4bb8628002b676bdf4a6e514f3cb82
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T17:14:39+00:00'
+requested_by: highlanderkev
+provider: github
+branch: master
+detected_tools_count: 10
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/highlanderkev/typescript-vue-render-functions
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/highlanderkev/typescript-vue-render-functions/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: highlanderkev
+  last_updated_on: 2020-04-01 15:55:01.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/highlanderkev/typescript-vue-render-functions
+  detection_source: Repo Metadata
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/highlanderkev/typescript-vue-render-functions/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: highlanderkev
+  last_updated_on: 2020-04-01 15:55:01.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/highlanderkev/typescript-vue-render-functions
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/highlanderkev/typescript-vue-render-functions/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: highlanderkev
+  last_updated_on: 2020-04-01 15:55:01.000000000 Z
+- name: "@vue/cli-service"
+  description: Local service for vue-cli projects
+  package_url: https://www.npmjs.com/@vue/cli-service
+  version: 4.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/highlanderkev/typescript-vue-render-functions/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: highlanderkev
+  last_updated_on: 2020-04-01 15:55:01.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/highlanderkev/typescript-vue-render-functions/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: highlanderkev
+  last_updated_on: 2020-04-01 15:55:01.000000000 Z
+- name: vue-property-decorator
+  description: Property decorators for Vue Component
+  package_url: https://www.npmjs.com/vue-property-decorator
+  version: 8.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16727/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
+  detection_source_url: https://github.com/highlanderkev/typescript-vue-render-functions/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: highlanderkev
+  last_updated_on: 2020-04-01 15:55:01.000000000 Z
+- name: vue-template-compiler
+  description: Template compiler for Vue 2.0
+  package_url: https://www.npmjs.com/vue-template-compiler
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/highlanderkev/typescript-vue-render-functions/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: highlanderkev
+  last_updated_on: 2020-04-01 15:55:01.000000000 Z
